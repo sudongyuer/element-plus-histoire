@@ -43,7 +43,7 @@
     "lint": "eslint . --cache",
     "build:all": "pnpm turbo run build",
     "remove:node_modules": "pnpx rimraf ./**/node_modules",
-    "lint-fix": "eslint . --fix",
+    "lint-fix": "eslint . --fix --cache",
     "try": "tsx src/index.ts"
   },
   "devDependencies": {

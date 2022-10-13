@@ -1,19 +1,6 @@
-# vite-plugin-starter
+# element-plus-histoire
 
-A plugin to support  inspect react component.
-
-[![NPM version](https://badge.fury.io/js/vite-plugin-starter.svg)](https://www.npmjs.com/package/vite-plugin-starter)
-
-
-<p align='center'>
-<img src='' width='200'/>
-</p>
-
-## Why ?
-
-## 🚀 Features
-
-## 🦄 Usage
+# ❕WIP~
 
 ## Author
 

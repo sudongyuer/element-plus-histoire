@@ -1,6 +1,6 @@
 # element-plus-histoire
 
-# ❕WIP~
+# Move to https://github.com/FliPPeDround/element-plus-docs-histoire
 
 ## Author
 
